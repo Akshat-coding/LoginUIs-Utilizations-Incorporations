@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406559758985",
+    "project_id": "fir-tutorial-a6216",
+    "storage_bucket": "fir-tutorial-a6216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406559758985:android:e5139166f7fd36b4220458",
+        "android_client_info": {
+          "package_name": "com.justacademy.akshat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbtKZ0Wu9BOtDi0K3mD8bxcso0WBxAB70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
